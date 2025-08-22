@@ -1,0 +1,1001 @@
+customer_id,age,gender,region,product_category,purchase_date,units_purchased,unit_price,purchase_amount,return,payment_method,high_value
+1,34,Other,West,Sports,2024-05-10,4,237.99,953.65,0,PayPal,1
+2,54,Male,South,Books,2024-11-10,3,23.69,67.01,0,Gift Card,0
+3,42,Male,West,Sports,2022-05-02,1,141.38,143.86,1,Credit Card,0
+4,55,Other,West,Home & Kitchen,2023-04-12,1,132.31,135.43,1,Debit Card,0
+5,29,Female,West,Books,2022-11-27,3,5.37,18.18,0,Gift Card,0
+6,40,Male,East,Electronics,2022-03-29,1,323.64,328.32,0,Gift Card,1
+7,59,Male,West,Electronics,2024-05-21,4,506.27,2028.36,0,Credit Card,1
+8,39,Male,East,Sports,2022-05-11,5,159.1,799.52,0,Debit Card,1
+9,38,Other,North,Clothing,2024-02-09,1,33.16,37.5,0,Credit Card,0
+10,44,Male,North,Home & Kitchen,2022-12-10,4,258.73,1037.92,0,PayPal,1
+11,48,Other,South,Home & Kitchen,2024-03-16,2,173.39,348.53,0,PayPal,1
+12,23,Other,South,Sports,2023-01-21,4,214.39,852.61,0,Gift Card,1
+13,44,Other,East,Home & Kitchen,2024-08-13,5,186.66,932.96,1,Debit Card,1
+14,57,Male,North,Electronics,2022-10-04,4,401.86,1608.15,0,PayPal,1
+15,51,Other,South,Sports,2023-04-05,3,48.68,144.09,0,PayPal,0
+16,29,Female,South,Electronics,2022-01-22,5,225.31,1124.74,0,PayPal,1
+17,62,Male,South,Books,2022-09-10,2,58.46,121.53,0,PayPal,0
+18,24,Male,North,Books,2024-01-18,3,17.57,56.62,0,Credit Card,0
+19,27,Male,South,Clothing,2024-05-06,4,147.07,591.77,0,Gift Card,1
+20,62,Male,North,Home & Kitchen,2023-04-20,5,173.62,867.14,0,Gift Card,1
+21,34,Male,West,Books,2024-12-18,2,12.47,20.07,0,PayPal,0
+22,43,Other,West,Home & Kitchen,2023-05-26,3,56.81,166.24,0,Gift Card,0
+23,38,Other,West,Electronics,2023-12-01,2,243.99,486.1,0,Gift Card,1
+24,45,Male,East,Sports,2024-09-02,4,233.27,928.23,0,Gift Card,1
+25,63,Other,North,Books,2022-07-09,2,27.78,50.73,1,Gift Card,0
+26,19,Male,South,Sports,2024-08-15,1,113.97,118.14,0,Credit Card,0
+27,60,Other,East,Books,2023-11-18,3,22.23,68.74,1,PayPal,0
+28,18,Other,East,Home & Kitchen,2024-08-15,2,69.71,137.5,0,Debit Card,0
+29,53,Other,West,Books,2023-07-17,4,31.83,123.65,1,Credit Card,0
+30,43,Other,North,Books,2024-04-11,4,12.15,48.73,0,Gift Card,0
+31,46,Female,South,Electronics,2023-10-09,2,525.97,1046.99,0,PayPal,1
+32,38,Male,East,Clothing,2022-01-21,4,68.15,276.99,0,PayPal,1
+33,28,Female,South,Electronics,2024-04-20,5,318.66,1592.46,0,PayPal,1
+34,57,Other,West,Sports,2022-06-16,5,131.65,657.28,0,PayPal,1
+35,28,Female,North,Home & Kitchen,2023-01-23,5,149.91,748.48,0,Gift Card,1
+36,53,Male,South,Home & Kitchen,2023-08-24,1,298.61,294.3,0,PayPal,1
+37,56,Male,South,Books,2022-11-12,2,35.0,71.38,0,Debit Card,0
+38,57,Other,East,Home & Kitchen,2022-01-14,1,53.81,56.14,0,Debit Card,0
+39,52,Female,South,Clothing,2022-08-30,4,98.89,397.34,0,PayPal,1
+40,51,Female,North,Clothing,2024-02-16,1,39.71,36.09,0,Gift Card,0
+41,64,Female,North,Books,2023-07-19,4,6.7,27.59,0,Debit Card,0
+42,41,Male,South,Books,2024-06-16,4,58.39,234.26,0,Debit Card,1
+43,39,Male,East,Sports,2022-04-02,3,199.05,600.82,0,Debit Card,1
+44,22,Female,East,Books,2024-08-13,5,58.91,293.32,0,Credit Card,1
+45,50,Male,West,Electronics,2023-05-24,4,365.05,1458.9,0,Credit Card,1
+46,53,Male,North,Electronics,2024-02-15,3,389.52,1169.73,1,Debit Card,1
+47,64,Female,West,Electronics,2022-02-04,5,225.75,1130.09,0,Gift Card,1
+48,37,Male,East,Clothing,2022-07-25,4,52.1,208.08,0,Gift Card,1
+49,36,Female,West,Home & Kitchen,2024-10-22,4,256.41,1025.06,0,Debit Card,1
+50,52,Female,East,Sports,2024-10-18,1,105.14,105.08,0,Debit Card,0
+51,60,Other,West,Books,2023-07-20,1,50.47,54.09,0,Gift Card,0
+52,34,Female,West,Sports,2023-12-04,5,184.53,922.25,0,Credit Card,1
+53,62,Male,North,Clothing,2023-02-06,4,43.03,176.53,0,Credit Card,0
+54,60,Other,North,Books,2023-12-31,2,32.91,65.86,0,Debit Card,0
+55,51,Female,West,Books,2022-06-11,1,42.26,46.75,0,Gift Card,0
+56,26,Other,East,Clothing,2022-07-21,5,50.55,256.1,0,Credit Card,1
+57,43,Male,East,Home & Kitchen,2024-09-22,4,254.29,1015.77,0,Debit Card,1
+58,19,Female,North,Books,2022-09-27,4,34.97,143.5,0,PayPal,0
+59,26,Male,North,Home & Kitchen,2024-03-26,2,74.62,145.33,0,Debit Card,0
+60,26,Other,South,Clothing,2023-04-01,5,95.79,483.19,0,PayPal,1
+61,57,Female,North,Sports,2024-10-13,4,249.94,1001.06,1,Debit Card,1
+62,34,Other,East,Books,2022-10-23,1,13.28,8.82,0,Gift Card,0
+63,18,Other,North,Home & Kitchen,2023-12-21,2,250.52,502.49,0,Gift Card,1
+64,42,Female,South,Books,2022-12-04,5,16.4,86.75,0,Gift Card,0
+65,60,Other,West,Home & Kitchen,2024-05-28,2,241.24,478.19,0,Gift Card,1
+66,57,Male,West,Books,2024-12-12,1,45.4,45.95,0,PayPal,0
+67,59,Other,East,Books,2024-03-02,5,21.53,110.11,0,Debit Card,0
+68,42,Male,South,Books,2022-08-05,2,22.92,48.94,0,Gift Card,0
+69,56,Male,West,Sports,2024-02-03,3,203.32,609.09,0,Credit Card,1
+70,52,Other,West,Books,2022-07-07,1,30.38,27.42,0,Credit Card,0
+71,20,Male,North,Home & Kitchen,2023-01-15,1,227.32,222.74,1,Credit Card,1
+72,54,Female,West,Sports,2023-05-08,1,58.3,59.09,0,Debit Card,0
+73,61,Male,East,Electronics,2024-11-30,3,533.65,1600.48,0,Credit Card,1
+74,61,Male,West,Home & Kitchen,2022-01-15,3,221.94,670.3,0,Credit Card,1
+75,47,Male,East,Home & Kitchen,2022-03-06,4,274.87,1095.1,0,PayPal,1
+76,55,Female,East,Electronics,2023-06-05,2,209.57,420.99,0,Debit Card,1
+77,51,Female,North,Sports,2023-10-10,4,158.43,628.96,0,Debit Card,1
+78,29,Female,South,Books,2024-12-22,2,37.95,72.62,0,Credit Card,0
+79,36,Other,East,Home & Kitchen,2023-08-16,3,125.43,375.84,0,Debit Card,1
+80,54,Female,West,Electronics,2023-01-27,3,356.31,1068.48,0,PayPal,1
+81,61,Male,West,Books,2023-02-23,4,7.09,30.21,0,PayPal,0
+82,34,Female,East,Sports,2022-10-16,5,192.82,968.19,0,Gift Card,1
+83,27,Female,West,Home & Kitchen,2023-01-14,4,178.32,714.66,1,PayPal,1
+84,64,Male,North,Books,2022-08-19,2,8.18,20.89,0,Gift Card,0
+85,29,Other,West,Books,2024-10-14,4,42.44,173.58,0,Credit Card,0
+86,33,Female,North,Clothing,2022-02-10,1,80.68,81.53,0,Gift Card,0
+87,41,Other,East,Electronics,2024-11-17,2,165.51,334.35,0,Gift Card,1
+88,36,Other,East,Books,2022-05-15,2,58.33,118.08,0,Credit Card,0
+89,25,Other,East,Sports,2022-07-20,5,238.55,1188.54,0,Gift Card,1
+90,48,Male,North,Clothing,2024-02-19,3,86.68,262.44,0,PayPal,1
+91,38,Other,West,Books,2024-07-18,2,10.15,16.25,0,Credit Card,0
+92,34,Other,North,Books,2024-11-22,3,46.5,140.45,0,Debit Card,0
+93,40,Male,West,Sports,2024-12-07,4,135.68,544.76,0,Gift Card,1
+94,54,Other,West,Clothing,2023-05-18,1,59.32,54.98,0,PayPal,0
+95,33,Other,North,Clothing,2023-02-11,5,83.88,416.73,0,Debit Card,1
+96,23,Male,South,Electronics,2024-03-15,3,385.1,1159.46,0,Credit Card,1
+97,25,Male,East,Books,2022-04-09,2,35.95,73.06,0,Credit Card,0
+98,42,Female,West,Electronics,2023-11-15,3,348.55,1043.11,0,Credit Card,1
+99,35,Female,West,Clothing,2023-12-27,2,98.75,199.4,0,PayPal,0
+100,42,Female,North,Electronics,2024-08-18,3,563.43,1691.26,0,Debit Card,1
+101,29,Other,South,Sports,2023-09-05,2,106.51,213.04,0,Credit Card,1
+102,32,Other,East,Home & Kitchen,2023-10-05,4,225.94,908.54,0,PayPal,1
+103,43,Other,South,Sports,2024-10-25,2,226.25,454.34,0,PayPal,1
+104,58,Male,East,Clothing,2023-05-18,2,79.28,157.31,0,Debit Card,0
+105,62,Other,West,Sports,2024-02-06,1,124.78,127.78,0,Credit Card,0
+106,43,Female,West,Clothing,2023-02-02,2,98.28,200.4,0,Credit Card,1
+107,64,Male,North,Sports,2024-05-20,1,158.07,154.32,0,Gift Card,0
+108,49,Male,North,Books,2024-03-05,5,49.36,243.82,0,Credit Card,1
+109,27,Male,South,Books,2023-01-28,1,31.21,28.37,0,Debit Card,0
+110,33,Female,South,Sports,2022-07-26,4,249.13,998.42,0,PayPal,1
+111,24,Female,East,Electronics,2024-11-04,1,176.76,177.79,0,Debit Card,0
+112,34,Female,North,Clothing,2024-06-10,5,20.41,103.25,0,Credit Card,0
+113,40,Male,West,Books,2024-05-13,4,40.21,165.25,0,PayPal,0
+114,43,Male,North,Clothing,2024-01-13,3,58.8,179.15,0,Debit Card,0
+115,38,Other,South,Books,2023-07-18,3,18.22,50.94,0,Credit Card,0
+116,39,Other,North,Home & Kitchen,2024-10-17,1,114.21,112.69,0,Credit Card,0
+117,24,Female,West,Sports,2022-04-06,1,82.61,81.96,0,Credit Card,0
+118,31,Male,North,Books,2023-04-30,5,6.69,32.43,0,Gift Card,0
+119,32,Other,South,Sports,2022-08-19,5,243.59,1219.67,0,Gift Card,1
+120,24,Female,West,Home & Kitchen,2024-01-19,2,89.6,183.12,0,Gift Card,0
+121,26,Female,East,Clothing,2023-06-25,5,115.42,575.18,0,PayPal,1
+122,65,Other,East,Sports,2024-11-25,2,196.58,393.69,0,Debit Card,1
+123,25,Female,West,Books,2023-06-09,4,56.11,227.33,0,PayPal,1
+124,40,Male,West,Home & Kitchen,2023-08-01,1,38.25,37.41,0,PayPal,0
+125,46,Female,West,Books,2023-11-13,4,52.96,208.53,0,Credit Card,1
+126,35,Male,South,Home & Kitchen,2023-07-11,5,172.35,861.5,0,Credit Card,1
+127,48,Male,West,Home & Kitchen,2024-10-09,4,200.79,798.7,0,PayPal,1
+128,47,Other,South,Books,2023-10-08,4,40.45,166.21,0,Debit Card,0
+129,56,Other,West,Sports,2024-03-06,4,209.45,833.57,0,Gift Card,1
+130,52,Other,South,Clothing,2024-11-17,5,63.34,316.1,0,PayPal,1
+131,35,Female,South,Clothing,2022-07-09,4,115.3,461.49,0,PayPal,1
+132,59,Other,North,Home & Kitchen,2023-09-25,2,172.72,350.29,0,Debit Card,1
+133,56,Other,East,Books,2023-09-20,5,48.64,239.84,0,Debit Card,1
+134,34,Female,West,Home & Kitchen,2024-08-30,4,297.45,1185.93,0,PayPal,1
+135,31,Other,East,Clothing,2023-12-11,5,46.08,225.51,0,Credit Card,1
+136,48,Female,East,Home & Kitchen,2023-10-11,3,298.56,892.22,0,Credit Card,1
+137,41,Female,North,Home & Kitchen,2022-11-14,2,54.25,105.57,0,PayPal,0
+138,52,Male,East,Clothing,2023-11-15,4,20.3,82.51,0,Credit Card,0
+139,61,Male,East,Sports,2023-10-26,3,34.94,102.01,0,Debit Card,0
+140,62,Other,West,Home & Kitchen,2023-03-18,3,122.28,362.05,0,Gift Card,1
+141,51,Female,South,Sports,2023-07-18,5,167.4,840.29,0,Debit Card,1
+142,20,Male,West,Home & Kitchen,2024-08-09,3,48.64,144.57,0,Gift Card,0
+143,54,Male,West,Books,2023-11-30,2,5.31,9.16,0,PayPal,0
+144,60,Male,East,Home & Kitchen,2022-04-23,2,283.01,564.05,0,PayPal,1
+145,57,Male,East,Home & Kitchen,2022-01-02,1,251.92,256.67,0,Gift Card,1
+146,43,Other,West,Electronics,2023-10-04,2,514.13,1024.97,0,Credit Card,1
+147,40,Male,West,Books,2022-08-08,3,53.64,164.91,0,PayPal,0
+148,61,Other,East,Books,2024-05-04,2,43.5,89.77,0,Gift Card,0
+149,56,Female,South,Sports,2023-01-20,5,48.49,238.22,0,Credit Card,1
+150,32,Other,South,Sports,2024-12-12,1,114.8,119.66,0,Gift Card,0
+151,21,Male,West,Home & Kitchen,2023-12-31,3,225.25,673.46,0,PayPal,1
+152,46,Female,South,Clothing,2022-09-04,1,56.44,52.43,0,PayPal,0
+153,39,Female,West,Home & Kitchen,2024-04-15,3,215.6,650.09,0,Debit Card,1
+154,42,Other,North,Electronics,2022-07-22,5,161.02,807.19,0,Gift Card,1
+155,30,Female,East,Home & Kitchen,2022-05-03,1,112.66,113.83,0,Credit Card,0
+156,35,Other,West,Electronics,2023-02-05,4,397.11,1584.99,0,PayPal,1
+157,50,Female,West,Home & Kitchen,2024-02-06,3,200.66,601.78,0,Debit Card,1
+158,33,Other,West,Sports,2022-10-21,4,154.83,622.14,0,Debit Card,1
+159,62,Male,South,Home & Kitchen,2022-10-07,1,218.39,216.43,0,Credit Card,1
+160,59,Other,West,Sports,2024-06-02,4,26.37,103.6,0,PayPal,0
+161,61,Other,North,Clothing,2022-07-17,4,33.12,127.52,0,Debit Card,0
+162,19,Male,South,Clothing,2024-09-08,1,132.96,129.71,0,Credit Card,0
+163,52,Other,East,Books,2024-01-22,5,42.5,216.23,0,Credit Card,1
+164,59,Other,North,Home & Kitchen,2022-05-24,4,60.49,241.38,0,Gift Card,1
+165,51,Female,West,Books,2023-09-01,4,51.31,210.1,0,Gift Card,1
+166,47,Other,North,Home & Kitchen,2022-07-06,5,95.4,475.97,0,PayPal,1
+167,30,Female,West,Clothing,2023-04-09,4,82.17,330.85,0,Debit Card,1
+168,30,Male,North,Electronics,2023-10-22,4,215.34,859.17,0,Debit Card,1
+169,35,Female,South,Books,2024-02-03,4,44.06,174.86,0,Gift Card,0
+170,49,Female,West,Books,2024-08-12,2,41.68,80.26,0,PayPal,0
+171,49,Male,South,Clothing,2023-02-07,5,47.44,235.69,0,Debit Card,1
+172,52,Female,North,Clothing,2022-05-27,4,132.24,529.44,0,Credit Card,1
+173,56,Male,West,Electronics,2024-05-13,5,330.59,1657.86,0,Credit Card,1
+174,63,Other,East,Books,2023-05-04,3,21.09,64.91,0,Credit Card,0
+175,46,Other,East,Clothing,2024-07-17,3,39.8,116.4,0,Credit Card,0
+176,46,Female,West,Clothing,2023-07-05,4,54.6,213.86,0,Gift Card,1
+177,61,Other,North,Electronics,2022-12-04,5,159.91,795.82,0,PayPal,1
+178,33,Male,East,Electronics,2024-05-21,5,412.47,2062.95,0,Credit Card,1
+179,61,Other,West,Sports,2023-10-03,5,214.5,1075.16,0,Credit Card,1
+180,64,Male,East,Home & Kitchen,2023-04-18,2,178.22,360.85,0,Debit Card,1
+181,27,Other,West,Sports,2022-05-31,3,74.34,218.17,0,Gift Card,1
+182,47,Female,North,Electronics,2022-09-20,5,165.15,825.98,1,Debit Card,1
+183,42,Other,North,Clothing,2022-05-24,5,47.9,239.22,0,Debit Card,1
+184,56,Other,South,Electronics,2022-12-12,2,337.25,676.07,0,Debit Card,1
+185,37,Other,East,Books,2023-09-16,2,46.78,94.15,0,Credit Card,0
+186,22,Male,South,Clothing,2024-10-13,5,44.42,223.97,0,PayPal,1
+187,18,Male,North,Sports,2024-05-30,1,186.95,188.53,0,Gift Card,0
+188,47,Female,West,Sports,2022-01-02,5,220.06,1096.47,0,Credit Card,1
+189,20,Male,North,Sports,2024-06-15,5,127.14,638.69,0,Gift Card,1
+190,62,Other,North,Clothing,2022-09-11,2,126.79,249.8,0,Credit Card,1
+191,31,Other,West,Home & Kitchen,2023-03-29,2,179.76,361.5,0,PayPal,1
+192,47,Male,South,Home & Kitchen,2024-11-26,5,202.01,1009.23,0,PayPal,1
+193,21,Other,East,Home & Kitchen,2024-10-11,5,172.1,860.61,0,Gift Card,1
+194,35,Female,North,Electronics,2022-01-09,5,358.43,1796.17,1,Debit Card,1
+195,54,Female,North,Electronics,2024-03-26,2,255.59,515.09,0,Credit Card,1
+196,42,Male,East,Books,2022-07-27,5,21.68,111.56,0,Gift Card,0
+197,65,Male,North,Clothing,2023-02-08,5,57.7,288.58,0,Debit Card,1
+198,18,Female,East,Books,2022-06-01,4,35.98,146.29,0,PayPal,0
+199,63,Female,East,Electronics,2022-02-23,1,203.98,204.11,0,Credit Card,1
+200,32,Male,East,Clothing,2023-09-20,3,139.18,421.24,0,PayPal,1
+201,26,Male,West,Sports,2023-08-10,1,187.15,186.18,0,Credit Card,0
+202,32,Male,South,Clothing,2022-04-14,4,72.19,293.45,0,Debit Card,1
+203,41,Other,South,Electronics,2022-09-11,3,221.38,668.47,0,Credit Card,1
+204,21,Male,West,Sports,2023-05-25,5,223.45,1119.66,0,Debit Card,1
+205,29,Male,South,Sports,2022-04-09,4,210.35,839.19,0,Credit Card,1
+206,54,Other,South,Clothing,2022-06-02,5,113.82,565.44,1,Gift Card,1
+207,54,Female,South,Home & Kitchen,2024-07-02,2,103.32,210.18,0,PayPal,1
+208,60,Male,North,Electronics,2024-05-27,4,331.1,1321.06,0,Credit Card,1
+209,23,Other,West,Electronics,2022-12-04,2,196.24,396.02,0,Credit Card,1
+210,56,Male,South,Home & Kitchen,2024-04-01,4,81.04,324.07,0,PayPal,1
+211,63,Male,West,Books,2024-08-14,4,48.07,191.33,0,Credit Card,0
+212,41,Other,South,Books,2022-06-10,2,44.33,92.69,0,PayPal,0
+213,28,Female,South,Electronics,2024-03-11,3,417.07,1252.24,0,Debit Card,1
+214,30,Other,West,Home & Kitchen,2023-02-02,1,271.85,272.61,0,Gift Card,1
+215,51,Male,East,Home & Kitchen,2024-03-26,5,187.48,938.0,0,Gift Card,1
+216,42,Female,West,Sports,2023-02-05,4,130.07,518.98,0,PayPal,1
+217,24,Other,East,Books,2023-10-02,5,23.72,121.46,0,Gift Card,0
+218,21,Other,North,Books,2024-11-22,2,56.72,110.98,0,PayPal,0
+219,25,Female,West,Sports,2023-11-19,5,43.61,222.44,0,Gift Card,1
+220,37,Male,East,Clothing,2023-04-05,2,141.02,285.97,0,Credit Card,1
+221,46,Other,South,Books,2024-08-12,5,50.47,250.72,0,Credit Card,1
+222,62,Other,North,Sports,2023-04-15,1,54.23,56.53,0,Gift Card,0
+223,63,Other,West,Home & Kitchen,2024-11-11,1,182.55,183.28,0,Debit Card,0
+224,27,Male,East,Clothing,2024-01-20,1,132.65,131.03,1,Gift Card,0
+225,60,Other,East,Electronics,2022-02-07,1,407.31,412.2,0,Credit Card,1
+226,51,Female,West,Home & Kitchen,2022-08-18,1,274.94,270.2,0,Gift Card,1
+227,43,Female,East,Clothing,2023-07-17,1,142.59,140.11,0,Credit Card,0
+228,58,Other,West,Sports,2023-03-14,2,120.04,240.27,0,Debit Card,1
+229,20,Other,East,Home & Kitchen,2022-01-27,4,131.87,527.72,0,Debit Card,1
+230,23,Female,South,Clothing,2022-08-14,5,141.72,709.5,0,Gift Card,1
+231,22,Female,West,Electronics,2024-03-08,1,453.81,456.33,0,Credit Card,1
+232,22,Other,West,Home & Kitchen,2022-10-11,2,61.33,123.89,0,Debit Card,0
+233,64,Female,North,Home & Kitchen,2024-05-28,2,41.42,83.84,0,PayPal,0
+234,40,Male,South,Books,2024-08-17,2,36.05,67.64,0,Gift Card,0
+235,26,Male,West,Clothing,2023-03-29,4,140.92,562.45,0,PayPal,1
+236,52,Male,East,Clothing,2024-10-16,5,129.75,646.08,0,Gift Card,1
+237,37,Male,East,Books,2024-03-26,4,42.17,166.34,0,Credit Card,0
+238,59,Female,East,Sports,2023-10-21,3,56.3,169.45,0,Credit Card,0
+239,52,Male,North,Sports,2023-07-01,2,82.2,161.4,0,PayPal,0
+240,35,Other,West,Books,2024-12-08,3,53.15,157.4,0,Credit Card,0
+241,34,Other,East,Home & Kitchen,2022-01-17,1,79.36,76.73,0,Credit Card,0
+242,41,Male,North,Electronics,2022-06-07,1,275.3,279.78,0,Credit Card,1
+243,20,Other,North,Sports,2023-04-22,4,54.16,221.09,0,PayPal,1
+244,49,Male,West,Electronics,2024-12-05,5,454.25,2272.34,1,Credit Card,1
+245,52,Male,East,Clothing,2023-06-02,3,142.72,432.4,0,Debit Card,1
+246,55,Male,South,Clothing,2022-04-09,5,54.97,277.69,0,Gift Card,1
+247,30,Other,East,Sports,2024-11-26,4,131.97,528.77,0,Debit Card,1
+248,64,Other,South,Home & Kitchen,2022-10-07,1,201.27,196.34,0,PayPal,0
+249,42,Male,South,Clothing,2023-05-12,5,149.93,752.38,1,PayPal,1
+250,26,Male,East,Electronics,2022-10-29,5,197.16,987.84,0,Credit Card,1
+251,21,Male,South,Home & Kitchen,2022-06-30,1,164.61,165.77,0,Debit Card,0
+252,31,Male,North,Sports,2023-08-30,3,111.65,337.56,0,PayPal,1
+253,54,Female,North,Clothing,2023-12-01,1,132.56,132.69,0,Gift Card,0
+254,51,Male,East,Sports,2024-09-19,5,132.09,662.5,0,PayPal,1
+255,28,Other,West,Home & Kitchen,2022-07-10,3,59.96,184.24,0,Debit Card,0
+256,58,Male,North,Home & Kitchen,2022-09-10,3,201.29,602.64,0,Gift Card,1
+257,20,Female,East,Home & Kitchen,2024-09-07,1,238.11,240.19,1,Gift Card,1
+258,45,Other,South,Books,2024-07-16,5,5.16,25.55,0,Credit Card,0
+259,46,Female,North,Books,2022-05-08,4,52.24,210.71,0,Gift Card,1
+260,26,Male,East,Electronics,2022-01-18,5,233.71,1171.18,0,Credit Card,1
+261,20,Other,East,Home & Kitchen,2023-07-20,2,179.06,353.57,0,Credit Card,1
+262,42,Male,West,Home & Kitchen,2023-07-24,4,142.27,570.53,0,PayPal,1
+263,51,Other,South,Clothing,2023-11-17,3,113.55,337.93,0,PayPal,1
+264,29,Other,South,Electronics,2023-09-18,4,317.02,1269.79,0,Credit Card,1
+265,59,Other,South,Electronics,2024-05-03,3,541.39,1623.86,0,Debit Card,1
+266,26,Female,East,Sports,2024-08-19,3,189.36,570.82,0,Credit Card,1
+267,32,Male,East,Home & Kitchen,2022-06-04,4,204.88,815.76,0,Debit Card,1
+268,57,Female,South,Clothing,2023-05-05,3,123.51,371.8,0,Gift Card,1
+269,42,Female,East,Sports,2024-02-24,3,194.66,581.75,1,Gift Card,1
+270,22,Male,West,Books,2022-09-03,2,6.98,17.48,1,Gift Card,0
+271,28,Male,East,Home & Kitchen,2024-11-28,5,136.58,687.18,1,Credit Card,1
+272,51,Male,East,Electronics,2024-01-29,5,568.86,2849.28,0,Debit Card,1
+273,41,Other,North,Home & Kitchen,2023-06-22,2,63.95,130.85,0,Credit Card,0
+274,32,Female,West,Home & Kitchen,2024-07-09,4,229.02,918.6,0,Gift Card,1
+275,55,Female,North,Books,2023-02-12,1,58.6,55.76,1,PayPal,0
+276,25,Female,South,Clothing,2023-06-09,1,26.79,25.15,0,Gift Card,0
+277,22,Female,South,Clothing,2024-04-07,1,108.69,108.34,0,Gift Card,0
+278,65,Female,West,Clothing,2024-06-21,2,80.86,164.45,0,PayPal,0
+279,43,Other,East,Sports,2022-02-05,2,155.31,314.78,0,Debit Card,1
+280,35,Male,North,Clothing,2023-11-16,3,31.09,90.17,0,Gift Card,0
+281,23,Other,West,Sports,2022-01-20,1,34.68,38.9,0,Debit Card,0
+282,54,Other,North,Books,2022-11-17,4,41.68,168.67,0,PayPal,0
+283,65,Other,East,Home & Kitchen,2023-05-27,4,252.29,1010.28,0,PayPal,1
+284,30,Male,North,Sports,2023-02-04,1,200.95,197.95,0,PayPal,0
+285,45,Male,West,Books,2023-10-16,1,34.91,30.46,0,Credit Card,0
+286,22,Female,East,Sports,2024-08-29,1,47.47,48.15,0,Debit Card,0
+287,30,Other,East,Books,2023-04-16,2,42.84,87.2,0,Credit Card,0
+288,34,Female,West,Clothing,2024-04-13,2,51.45,100.0,0,PayPal,0
+289,57,Male,East,Clothing,2023-12-28,2,138.44,277.44,0,Gift Card,1
+290,62,Male,North,Books,2024-05-03,5,51.1,259.09,1,Credit Card,1
+291,49,Male,South,Electronics,2022-02-20,4,469.22,1880.24,0,Gift Card,1
+292,46,Male,West,Books,2023-07-29,4,57.19,233.02,1,Credit Card,1
+293,20,Other,North,Sports,2022-05-30,3,32.07,94.87,0,Debit Card,0
+294,57,Female,East,Books,2022-11-10,2,45.49,89.16,0,Gift Card,0
+295,51,Male,South,Home & Kitchen,2023-07-24,5,119.17,598.32,0,Credit Card,1
+296,57,Female,North,Electronics,2022-11-01,5,557.73,2787.96,0,PayPal,1
+297,44,Male,West,Books,2023-11-13,4,19.67,74.54,0,PayPal,0
+298,30,Female,East,Electronics,2024-04-17,2,476.19,950.2,0,Debit Card,1
+299,62,Female,West,Electronics,2024-12-13,3,544.94,1634.01,0,Debit Card,1
+300,50,Male,North,Books,2024-09-29,2,7.29,12.51,0,Credit Card,0
+301,23,Male,South,Books,2023-03-20,1,26.87,25.19,0,PayPal,0
+302,41,Female,North,Clothing,2023-09-05,2,119.1,236.14,0,Gift Card,1
+303,36,Other,North,Books,2024-09-19,1,30.02,25.44,0,Credit Card,0
+304,33,Male,East,Books,2022-09-21,1,19.7,21.07,0,Credit Card,0
+305,57,Male,West,Clothing,2024-12-12,3,48.57,146.7,0,PayPal,0
+306,45,Other,North,Clothing,2024-09-30,4,37.1,149.92,0,Debit Card,0
+307,50,Other,North,Home & Kitchen,2022-01-05,2,261.42,519.77,0,Gift Card,1
+308,65,Male,South,Books,2024-02-13,1,36.64,34.6,0,Debit Card,0
+309,58,Male,South,Sports,2024-05-26,2,42.19,85.57,0,Credit Card,0
+310,30,Male,West,Electronics,2024-09-18,4,322.16,1289.64,0,Credit Card,1
+311,60,Male,West,Clothing,2024-06-02,4,67.81,271.28,0,PayPal,1
+312,62,Female,East,Books,2022-02-16,5,15.0,73.48,0,Debit Card,0
+313,42,Female,West,Sports,2024-05-16,4,122.99,496.09,0,Credit Card,1
+314,59,Female,South,Electronics,2024-04-02,3,299.44,896.73,0,Credit Card,1
+315,53,Male,West,Books,2024-07-24,1,23.8,23.36,0,Debit Card,0
+316,44,Female,North,Sports,2023-10-18,5,191.28,958.19,0,PayPal,1
+317,55,Male,West,Electronics,2022-09-26,3,250.47,751.84,0,PayPal,1
+318,24,Male,West,Sports,2023-01-05,2,169.42,337.31,0,Gift Card,1
+319,22,Female,East,Clothing,2023-09-28,1,94.18,93.54,1,Gift Card,0
+320,60,Male,North,Books,2023-10-19,4,36.25,147.93,0,Gift Card,0
+321,62,Female,East,Sports,2022-04-30,1,174.18,171.96,0,Debit Card,0
+322,48,Female,South,Sports,2024-04-10,2,148.39,293.19,0,Gift Card,1
+323,40,Female,West,Books,2024-12-17,5,53.36,264.93,0,Gift Card,1
+324,59,Female,West,Electronics,2024-01-11,5,454.01,2273.55,0,Debit Card,1
+325,27,Female,South,Books,2022-04-27,5,35.08,171.3,0,Gift Card,0
+326,49,Other,East,Sports,2024-03-01,4,211.7,851.7,0,PayPal,1
+327,60,Other,North,Home & Kitchen,2024-10-09,3,193.66,581.39,0,Credit Card,1
+328,47,Other,East,Electronics,2024-12-17,3,281.01,847.89,0,PayPal,1
+329,56,Other,East,Sports,2023-09-26,1,71.6,75.99,0,PayPal,0
+330,48,Other,North,Home & Kitchen,2023-05-28,4,71.13,284.04,0,Credit Card,1
+331,35,Female,West,Electronics,2024-03-12,5,554.75,2770.76,0,PayPal,1
+332,53,Male,East,Clothing,2023-07-14,5,112.32,558.24,0,Credit Card,1
+333,19,Male,South,Books,2023-05-03,2,56.56,110.51,0,PayPal,0
+334,31,Female,North,Electronics,2024-06-15,2,421.48,845.06,0,Debit Card,1
+335,30,Male,West,Electronics,2023-12-05,5,363.03,1812.88,0,Debit Card,1
+336,46,Male,North,Sports,2023-08-04,5,38.44,190.6,0,Gift Card,0
+337,29,Other,South,Home & Kitchen,2024-02-29,4,211.34,844.86,0,Debit Card,1
+338,56,Other,North,Electronics,2024-05-10,3,411.99,1240.11,0,Credit Card,1
+339,19,Other,North,Books,2022-09-04,2,59.46,115.82,0,Gift Card,0
+340,49,Male,East,Electronics,2022-06-03,3,257.62,767.91,0,PayPal,1
+341,30,Other,South,Electronics,2024-09-23,4,388.83,1550.93,0,Debit Card,1
+342,63,Female,South,Sports,2023-11-28,5,171.47,861.37,0,Gift Card,1
+343,44,Male,South,Electronics,2024-12-28,3,440.07,1321.67,0,Debit Card,1
+344,58,Male,North,Home & Kitchen,2024-12-06,5,181.55,905.48,0,Gift Card,1
+345,34,Other,South,Sports,2024-10-05,5,199.81,995.82,0,Credit Card,1
+346,57,Female,South,Clothing,2022-04-04,1,46.65,44.59,0,Credit Card,0
+347,48,Other,South,Clothing,2024-08-15,3,114.33,339.14,0,PayPal,1
+348,51,Other,East,Sports,2024-10-08,3,164.44,497.74,0,Gift Card,1
+349,41,Male,South,Home & Kitchen,2023-03-29,5,271.94,1362.54,0,Credit Card,1
+350,62,Male,North,Sports,2024-06-30,4,215.62,862.1,0,PayPal,1
+351,52,Other,East,Sports,2022-08-06,1,95.91,99.56,0,Gift Card,0
+352,65,Male,South,Sports,2023-04-19,5,87.15,433.26,0,PayPal,1
+353,23,Male,South,Sports,2023-03-08,2,245.87,493.92,0,Credit Card,1
+354,36,Male,East,Electronics,2022-12-07,2,387.27,778.1,0,PayPal,1
+355,47,Other,South,Books,2023-07-05,1,54.85,53.42,0,Gift Card,0
+356,24,Male,North,Clothing,2022-12-23,4,41.3,167.79,0,Debit Card,0
+357,27,Other,North,Home & Kitchen,2022-01-23,5,203.56,1015.76,0,Credit Card,1
+358,58,Male,South,Electronics,2023-06-06,3,514.44,1541.3,0,Gift Card,1
+359,49,Female,North,Clothing,2024-03-12,1,143.16,139.23,0,Gift Card,0
+360,51,Male,East,Books,2024-02-01,4,23.55,93.62,0,PayPal,0
+361,45,Other,South,Sports,2023-03-18,3,188.12,566.66,0,Credit Card,1
+362,32,Male,East,Books,2024-02-08,2,34.63,73.67,0,Debit Card,0
+363,47,Other,North,Clothing,2024-10-12,2,27.88,56.8,0,Debit Card,0
+364,54,Other,South,Clothing,2023-05-31,3,109.7,332.73,0,PayPal,1
+365,46,Male,East,Electronics,2024-11-05,1,460.54,463.77,0,Credit Card,1
+366,39,Other,North,Electronics,2024-03-02,2,568.77,1134.28,0,Debit Card,1
+367,21,Male,South,Home & Kitchen,2022-12-02,5,164.27,821.23,0,Credit Card,1
+368,37,Female,West,Sports,2022-09-15,3,76.81,226.59,0,PayPal,1
+369,49,Other,North,Books,2023-05-12,3,7.45,24.17,0,Credit Card,0
+370,53,Other,North,Sports,2024-06-14,2,118.52,241.54,0,Credit Card,1
+371,21,Other,West,Books,2022-06-09,1,21.61,17.98,0,Credit Card,0
+372,44,Other,West,Sports,2024-05-01,5,196.24,983.56,0,PayPal,1
+373,34,Female,East,Clothing,2023-11-21,1,66.05,67.38,0,PayPal,0
+374,29,Female,North,Clothing,2023-01-15,4,143.38,574.35,0,PayPal,1
+375,39,Male,West,Sports,2024-08-14,4,241.52,964.98,0,Debit Card,1
+376,34,Other,South,Home & Kitchen,2023-11-22,2,197.65,393.84,0,Gift Card,1
+377,27,Other,North,Clothing,2024-12-02,2,140.73,276.9,1,Credit Card,1
+378,18,Female,East,Home & Kitchen,2022-10-12,2,235.43,468.04,0,Gift Card,1
+379,39,Male,West,Clothing,2023-02-01,4,91.09,359.52,0,Credit Card,1
+380,43,Female,North,Electronics,2022-01-12,1,231.14,231.95,0,Credit Card,1
+381,35,Female,North,Electronics,2023-05-14,1,356.37,352.43,0,Credit Card,1
+382,31,Male,West,Sports,2024-01-24,2,151.2,306.12,1,PayPal,1
+383,64,Other,West,Books,2022-02-04,5,52.52,262.82,1,Debit Card,1
+384,46,Other,West,Electronics,2023-12-28,1,366.6,368.6,0,PayPal,1
+385,29,Female,North,Clothing,2024-04-28,4,136.7,545.9,0,Credit Card,1
+386,53,Female,West,Clothing,2022-03-31,3,107.67,323.6,0,Gift Card,1
+387,52,Female,West,Electronics,2024-02-15,3,211.65,639.38,0,Credit Card,1
+388,29,Male,North,Electronics,2023-08-28,3,597.74,1789.05,0,Credit Card,1
+389,24,Male,North,Books,2024-08-27,5,34.0,167.53,0,Debit Card,0
+390,46,Female,East,Electronics,2024-10-18,2,326.34,655.47,0,Credit Card,1
+391,28,Other,South,Sports,2023-02-22,4,173.3,689.19,0,PayPal,1
+392,50,Other,North,Books,2022-04-25,5,10.99,50.7,1,Debit Card,0
+393,23,Male,South,Electronics,2023-09-09,4,436.44,1744.38,0,Debit Card,1
+394,64,Male,East,Clothing,2024-04-05,4,84.77,335.0,0,Debit Card,1
+395,32,Other,East,Electronics,2023-02-17,2,333.0,666.86,0,Credit Card,1
+396,49,Male,West,Sports,2023-12-30,3,239.43,715.55,0,Debit Card,1
+397,28,Other,East,Sports,2024-10-17,2,142.57,289.1,0,Debit Card,1
+398,40,Female,West,Clothing,2024-01-31,5,48.49,245.26,0,PayPal,1
+399,43,Male,West,Books,2023-11-07,5,30.24,153.21,1,Gift Card,0
+400,51,Female,North,Clothing,2023-04-02,5,139.52,698.77,0,PayPal,1
+401,63,Male,North,Electronics,2024-07-08,2,229.24,462.12,0,PayPal,1
+402,51,Male,South,Clothing,2022-07-11,4,47.81,188.49,0,Gift Card,0
+403,46,Female,West,Books,2024-01-09,4,5.72,26.6,0,Gift Card,0
+404,21,Female,West,Home & Kitchen,2024-09-04,1,33.83,36.73,0,Debit Card,0
+405,34,Male,South,Clothing,2024-10-05,5,127.82,641.59,0,PayPal,1
+406,52,Female,West,Books,2022-04-06,4,45.27,181.68,0,Credit Card,0
+407,30,Other,East,Home & Kitchen,2023-10-25,1,125.86,123.32,0,PayPal,0
+408,58,Other,West,Books,2022-02-06,4,43.41,172.86,0,Gift Card,0
+409,56,Female,West,Books,2022-10-06,5,26.74,136.62,0,Debit Card,0
+410,32,Other,West,Home & Kitchen,2022-08-05,3,287.28,857.16,0,Debit Card,1
+411,46,Other,North,Clothing,2024-05-16,5,145.72,731.4,0,Debit Card,1
+412,46,Other,East,Home & Kitchen,2024-05-22,2,136.05,269.51,0,Credit Card,1
+413,28,Male,West,Clothing,2022-03-03,4,131.05,520.64,0,Credit Card,1
+414,49,Other,East,Books,2023-08-19,4,47.52,186.24,0,Gift Card,0
+415,19,Other,East,Clothing,2023-12-30,2,60.3,115.87,0,Debit Card,0
+416,64,Female,East,Sports,2023-02-01,2,77.21,154.65,0,PayPal,0
+417,31,Other,South,Home & Kitchen,2023-11-30,3,153.72,458.35,0,Debit Card,1
+418,37,Male,West,Home & Kitchen,2024-11-08,4,240.96,968.75,0,PayPal,1
+419,39,Male,North,Electronics,2022-06-26,4,582.08,2329.05,0,PayPal,1
+420,28,Female,North,Books,2023-01-31,3,47.0,137.37,0,Credit Card,0
+421,44,Male,North,Books,2023-03-21,1,52.04,53.92,0,Debit Card,0
+422,20,Male,North,Clothing,2022-03-17,3,98.4,299.17,0,Gift Card,1
+423,34,Other,West,Sports,2022-09-22,5,212.97,1067.29,0,Debit Card,1
+424,61,Other,North,Books,2023-03-31,4,48.14,188.34,1,Debit Card,0
+425,45,Male,East,Sports,2023-12-19,2,109.82,223.6,0,Gift Card,1
+426,46,Female,South,Electronics,2024-01-05,5,398.4,1994.92,0,Gift Card,1
+427,38,Female,North,Home & Kitchen,2024-04-30,4,247.28,985.72,0,Debit Card,1
+428,64,Other,East,Sports,2022-05-24,3,35.36,101.61,1,Gift Card,0
+429,33,Male,North,Books,2024-06-03,5,49.44,247.79,0,PayPal,1
+430,54,Other,West,Home & Kitchen,2024-12-28,4,78.03,308.68,0,Credit Card,1
+431,37,Female,East,Sports,2023-01-31,1,140.8,144.15,0,Gift Card,0
+432,23,Male,West,Sports,2024-11-14,1,206.86,205.45,0,PayPal,1
+433,36,Other,North,Clothing,2024-08-05,2,53.0,110.12,0,Credit Card,0
+434,22,Other,East,Home & Kitchen,2024-06-09,4,96.37,386.13,0,Gift Card,1
+435,20,Female,East,Sports,2023-07-23,1,115.62,112.45,0,Credit Card,0
+436,18,Other,East,Clothing,2024-11-28,3,136.3,405.31,0,Debit Card,1
+437,55,Female,North,Books,2022-04-19,4,5.02,20.86,0,Gift Card,0
+438,32,Female,South,Sports,2024-12-01,3,227.81,686.05,0,PayPal,1
+439,51,Male,South,Clothing,2024-07-23,3,39.99,122.8,0,PayPal,0
+440,52,Male,West,Clothing,2023-02-02,1,148.71,146.47,0,Credit Card,0
+441,42,Other,South,Home & Kitchen,2023-09-26,4,287.81,1148.28,0,PayPal,1
+442,41,Female,North,Clothing,2024-01-03,5,84.31,416.71,0,PayPal,1
+443,29,Female,East,Sports,2022-08-23,1,140.36,142.15,0,Gift Card,0
+444,35,Male,East,Electronics,2023-10-20,1,366.7,362.46,1,Credit Card,1
+445,32,Male,North,Books,2024-01-21,4,39.95,159.01,0,PayPal,0
+446,61,Female,East,Sports,2023-08-11,4,45.41,182.67,0,Debit Card,0
+447,33,Male,South,Sports,2024-10-29,3,32.34,101.39,1,Gift Card,0
+448,44,Other,West,Books,2024-08-11,4,8.17,30.81,0,PayPal,0
+449,25,Female,North,Books,2023-05-07,3,29.44,85.82,0,PayPal,0
+450,63,Male,East,Clothing,2024-07-01,1,55.82,57.36,0,PayPal,0
+451,42,Other,North,Sports,2022-06-19,2,164.96,331.11,0,Gift Card,1
+452,34,Female,South,Clothing,2024-08-03,5,149.02,743.41,0,Gift Card,1
+453,46,Other,East,Home & Kitchen,2024-03-05,1,134.31,138.59,0,Credit Card,0
+454,25,Other,East,Clothing,2023-09-26,4,94.6,381.85,0,Gift Card,1
+455,32,Female,East,Home & Kitchen,2022-01-29,5,142.21,708.31,0,PayPal,1
+456,44,Other,East,Electronics,2022-12-05,2,531.27,1059.94,0,PayPal,1
+457,63,Male,North,Sports,2023-05-15,2,228.0,456.13,0,Debit Card,1
+458,24,Male,South,Home & Kitchen,2023-05-26,3,266.89,803.39,0,Gift Card,1
+459,20,Male,South,Electronics,2022-08-05,5,588.47,2937.78,0,PayPal,1
+460,46,Other,West,Books,2024-12-29,3,6.51,21.47,0,Debit Card,0
+461,61,Male,North,Clothing,2023-03-21,1,129.18,130.66,0,Credit Card,0
+462,41,Other,South,Electronics,2024-05-25,5,488.3,2438.8,0,Credit Card,1
+463,20,Male,North,Home & Kitchen,2022-06-16,1,91.75,93.56,0,Credit Card,0
+464,37,Female,North,Sports,2022-04-01,3,240.17,724.92,0,PayPal,1
+465,63,Other,South,Books,2023-12-15,5,13.15,61.22,0,PayPal,0
+466,32,Other,West,Books,2022-02-08,3,42.38,125.32,0,Credit Card,0
+467,42,Male,West,Electronics,2022-06-22,5,251.2,1255.38,1,Debit Card,1
+468,47,Female,West,Electronics,2023-10-15,3,344.12,1036.36,0,Credit Card,1
+469,31,Male,East,Clothing,2024-01-24,2,113.49,231.6,0,Gift Card,1
+470,24,Male,South,Books,2024-12-17,3,35.98,107.39,0,PayPal,0
+471,34,Female,East,Books,2023-04-21,2,28.51,59.53,1,PayPal,0
+472,61,Female,East,Clothing,2023-04-01,3,62.42,187.59,0,Gift Card,0
+473,37,Male,East,Sports,2024-04-08,5,213.92,1069.99,0,PayPal,1
+474,53,Female,North,Clothing,2024-06-13,5,38.7,191.26,0,Gift Card,0
+475,26,Male,North,Home & Kitchen,2024-10-21,5,146.13,727.81,0,Credit Card,1
+476,55,Other,South,Home & Kitchen,2023-01-22,4,274.01,1093.94,0,Credit Card,1
+477,65,Male,South,Electronics,2022-12-14,1,530.63,531.2,0,PayPal,1
+478,39,Other,North,Clothing,2022-07-09,5,72.12,355.9,1,PayPal,1
+479,19,Male,North,Clothing,2023-05-20,2,119.2,242.48,0,Credit Card,1
+480,41,Female,East,Electronics,2024-04-03,5,520.42,2598.67,0,Gift Card,1
+481,25,Other,West,Sports,2024-07-17,4,225.0,897.2,1,Credit Card,1
+482,28,Female,West,Clothing,2024-07-22,2,90.79,181.75,0,Gift Card,0
+483,30,Other,West,Books,2022-05-14,4,16.25,67.08,0,Debit Card,0
+484,34,Other,West,Clothing,2022-02-27,2,53.19,102.34,0,Credit Card,0
+485,25,Male,West,Sports,2023-11-16,3,91.53,272.77,0,Gift Card,1
+486,38,Male,East,Clothing,2023-11-03,1,97.19,101.88,0,Gift Card,0
+487,35,Male,South,Books,2022-06-22,1,6.8,4.43,0,Gift Card,0
+488,47,Male,North,Home & Kitchen,2024-03-25,4,201.73,805.06,0,PayPal,1
+489,35,Female,East,Home & Kitchen,2022-03-21,1,128.38,131.74,0,PayPal,0
+490,63,Male,West,Sports,2024-06-04,4,91.43,361.22,0,Debit Card,1
+491,64,Male,North,Sports,2022-07-22,4,222.89,891.19,0,Debit Card,1
+492,48,Other,East,Books,2024-02-03,4,30.3,120.0,0,Gift Card,0
+493,55,Female,West,Home & Kitchen,2022-02-16,1,55.66,53.83,0,PayPal,0
+494,49,Female,East,Home & Kitchen,2023-10-18,4,253.22,1010.74,0,Gift Card,1
+495,28,Other,North,Home & Kitchen,2023-04-16,1,42.86,38.78,0,PayPal,0
+496,62,Other,South,Home & Kitchen,2024-08-28,4,226.22,903.04,0,PayPal,1
+497,42,Male,West,Books,2024-11-01,5,47.56,233.25,0,Debit Card,1
+498,50,Female,North,Sports,2024-01-06,4,104.34,420.15,0,Gift Card,1
+499,55,Male,North,Sports,2024-02-23,2,210.58,420.14,0,Gift Card,1
+500,58,Other,South,Electronics,2024-08-25,4,382.05,1527.63,0,PayPal,1
+501,25,Male,East,Sports,2022-12-24,3,129.24,391.66,0,PayPal,1
+502,28,Female,South,Home & Kitchen,2024-08-29,4,42.26,170.62,0,Credit Card,0
+503,39,Male,South,Clothing,2023-10-30,2,57.7,110.49,0,Debit Card,0
+504,41,Female,East,Home & Kitchen,2023-01-08,2,281.37,567.18,0,Credit Card,1
+505,58,Male,East,Home & Kitchen,2024-10-28,1,135.79,133.16,0,PayPal,0
+506,34,Male,East,Sports,2023-11-07,5,148.01,736.11,0,Gift Card,1
+507,29,Female,North,Electronics,2022-03-31,4,389.41,1560.32,0,PayPal,1
+508,63,Female,North,Books,2023-11-29,1,37.47,37.48,0,Credit Card,0
+509,49,Female,West,Clothing,2023-06-24,5,27.97,139.2,0,Debit Card,0
+510,32,Male,West,Clothing,2024-01-02,4,67.08,265.83,0,PayPal,1
+511,33,Male,South,Electronics,2024-05-18,3,475.41,1426.7,0,Gift Card,1
+512,39,Male,South,Home & Kitchen,2022-02-10,4,84.15,334.35,0,Credit Card,1
+513,45,Other,West,Books,2024-01-10,2,16.2,36.41,0,PayPal,0
+514,37,Male,South,Books,2023-05-17,2,5.55,8.26,0,Gift Card,0
+515,50,Female,East,Books,2024-08-16,3,29.06,91.03,0,Gift Card,0
+516,27,Female,North,Sports,2024-07-17,1,223.62,224.21,0,PayPal,1
+517,57,Female,West,Home & Kitchen,2023-04-06,5,44.01,223.35,0,Credit Card,1
+518,49,Male,North,Clothing,2024-01-02,4,44.85,181.51,0,Gift Card,0
+519,50,Female,West,Clothing,2024-01-22,2,60.31,122.59,0,Debit Card,0
+520,19,Female,North,Home & Kitchen,2024-07-13,1,227.57,225.81,0,Credit Card,1
+521,50,Other,West,Clothing,2024-06-27,3,103.28,307.19,0,Gift Card,1
+522,50,Other,North,Sports,2023-01-25,2,118.59,234.28,0,PayPal,1
+523,58,Female,East,Books,2024-06-01,3,46.75,143.82,0,PayPal,0
+524,30,Other,West,Clothing,2022-09-13,4,99.25,400.21,0,Credit Card,1
+525,47,Other,West,Sports,2023-12-10,5,226.61,1132.45,0,Gift Card,1
+526,50,Female,West,Books,2023-03-26,2,49.99,96.31,0,Gift Card,0
+527,30,Male,East,Home & Kitchen,2022-01-10,2,98.26,195.34,0,Credit Card,0
+528,43,Male,North,Home & Kitchen,2024-04-03,4,103.29,414.35,0,Credit Card,1
+529,39,Female,West,Sports,2024-03-08,1,53.21,52.75,0,Credit Card,0
+530,56,Male,North,Sports,2024-05-26,5,100.82,506.89,0,Debit Card,1
+531,19,Other,East,Sports,2024-10-25,2,249.9,504.77,0,Debit Card,1
+532,55,Female,South,Clothing,2024-10-12,5,72.75,360.65,0,Debit Card,1
+533,56,Male,West,Home & Kitchen,2023-01-09,2,89.53,178.66,0,PayPal,0
+534,43,Male,East,Clothing,2024-12-24,5,119.12,594.92,0,Debit Card,1
+535,63,Other,North,Clothing,2022-05-26,3,90.52,269.61,0,Debit Card,1
+536,32,Female,West,Books,2022-08-12,2,13.23,23.44,0,Debit Card,0
+537,51,Female,North,Sports,2022-06-26,5,110.66,548.93,0,Gift Card,1
+538,59,Other,South,Clothing,2024-05-02,1,73.88,77.75,0,Debit Card,0
+539,61,Female,West,Books,2022-03-04,3,46.46,138.58,0,Credit Card,0
+540,57,Female,West,Electronics,2024-04-06,3,159.3,477.88,0,Debit Card,1
+541,28,Other,North,Books,2024-03-05,1,19.8,23.97,0,PayPal,0
+542,20,Other,West,Electronics,2023-11-20,5,382.92,1917.35,0,PayPal,1
+543,23,Male,East,Electronics,2022-04-15,4,270.98,1080.23,0,Debit Card,1
+544,26,Female,East,Electronics,2023-05-26,1,432.8,433.45,0,Credit Card,1
+545,23,Other,South,Electronics,2023-01-20,5,366.84,1833.62,0,Credit Card,1
+546,26,Male,East,Sports,2023-02-09,1,106.38,109.36,0,Gift Card,0
+547,56,Female,South,Clothing,2024-04-02,1,143.4,145.64,0,Credit Card,0
+548,48,Male,North,Clothing,2023-06-02,2,102.18,206.27,0,Gift Card,1
+549,49,Other,North,Electronics,2023-04-21,5,208.47,1040.77,1,Gift Card,1
+550,58,Female,South,Clothing,2023-12-10,4,92.81,374.3,0,Credit Card,1
+551,29,Male,East,Electronics,2024-02-10,2,501.33,998.18,0,Credit Card,1
+552,25,Other,East,Clothing,2024-11-12,1,112.1,108.7,0,Gift Card,0
+553,25,Other,South,Books,2024-09-23,1,14.46,12.82,0,PayPal,0
+554,45,Other,South,Sports,2023-11-08,1,243.79,239.56,0,Debit Card,1
+555,37,Other,North,Home & Kitchen,2023-12-15,5,151.18,753.25,0,PayPal,1
+556,64,Other,South,Electronics,2022-03-24,5,221.56,1111.11,0,Credit Card,1
+557,24,Other,East,Books,2023-04-02,2,14.91,34.3,0,Credit Card,0
+558,28,Other,South,Books,2022-01-01,4,10.4,39.66,0,Gift Card,0
+559,37,Male,South,Sports,2022-02-20,2,205.79,409.23,0,Debit Card,1
+560,33,Female,South,Sports,2023-11-16,3,52.46,155.17,0,Credit Card,0
+561,21,Female,North,Electronics,2023-12-18,1,206.31,204.08,0,Debit Card,1
+562,23,Male,South,Electronics,2023-03-25,1,532.71,528.07,0,PayPal,1
+563,39,Other,West,Books,2024-05-30,1,23.95,28.22,0,Debit Card,0
+564,43,Female,West,Books,2023-05-03,2,6.7,10.53,0,PayPal,0
+565,20,Other,West,Sports,2022-02-03,2,36.68,72.55,0,Credit Card,0
+566,58,Female,East,Electronics,2022-04-05,1,213.98,209.07,0,Credit Card,1
+567,59,Other,East,Electronics,2022-06-03,2,246.03,495.63,0,Gift Card,1
+568,31,Male,South,Books,2022-09-07,5,41.58,210.23,0,PayPal,1
+569,28,Other,West,Home & Kitchen,2023-11-05,5,72.48,366.86,0,PayPal,1
+570,35,Female,North,Books,2023-03-14,2,11.54,25.89,0,Debit Card,0
+571,29,Other,West,Home & Kitchen,2022-04-28,1,236.47,234.61,0,Gift Card,1
+572,40,Female,West,Electronics,2024-02-10,2,451.97,901.43,0,Gift Card,1
+573,29,Other,East,Books,2022-09-25,2,28.94,59.86,0,Gift Card,0
+574,30,Female,East,Sports,2024-12-13,2,148.59,295.83,0,PayPal,1
+575,42,Female,North,Clothing,2022-08-24,3,60.56,182.34,0,Credit Card,0
+576,62,Female,East,Electronics,2023-01-24,5,367.13,1830.69,0,Credit Card,1
+577,36,Other,North,Electronics,2024-09-16,4,378.0,1507.63,1,Debit Card,1
+578,63,Female,East,Books,2024-02-02,4,26.3,105.55,0,Debit Card,0
+579,53,Other,West,Clothing,2023-02-05,3,137.85,414.22,0,PayPal,1
+580,62,Male,West,Clothing,2023-09-16,2,22.09,46.69,0,Credit Card,0
+581,25,Male,North,Clothing,2024-02-06,3,121.68,361.37,0,Gift Card,1
+582,46,Female,North,Books,2024-07-07,3,11.84,35.65,0,Credit Card,0
+583,49,Other,East,Books,2024-05-02,1,48.87,45.81,0,Debit Card,0
+584,61,Female,East,Home & Kitchen,2023-08-01,5,196.3,977.41,0,Credit Card,1
+585,35,Other,North,Home & Kitchen,2022-03-16,4,257.69,1029.85,0,Gift Card,1
+586,23,Other,North,Home & Kitchen,2023-03-11,2,56.33,109.29,0,Debit Card,0
+587,35,Male,West,Sports,2022-04-13,4,150.77,600.3,0,PayPal,1
+588,36,Other,West,Electronics,2024-02-03,4,375.49,1500.13,0,Credit Card,1
+589,39,Other,North,Home & Kitchen,2024-01-08,5,220.67,1100.95,0,Credit Card,1
+590,54,Female,West,Sports,2024-03-16,4,145.22,576.74,0,PayPal,1
+591,49,Female,South,Sports,2022-04-08,4,146.67,582.56,0,PayPal,1
+592,58,Other,East,Books,2024-03-08,3,28.63,82.82,1,Gift Card,0
+593,20,Male,West,Clothing,2024-05-08,5,60.15,296.25,0,Credit Card,1
+594,45,Female,South,Clothing,2023-03-11,1,82.69,83.96,0,Debit Card,0
+595,27,Female,North,Home & Kitchen,2023-03-23,2,61.99,121.86,0,Credit Card,0
+596,52,Male,West,Electronics,2022-09-06,4,582.68,2328.52,0,Gift Card,1
+597,46,Female,North,Electronics,2022-06-15,2,471.48,941.29,0,Debit Card,1
+598,32,Other,East,Electronics,2024-09-10,1,578.61,580.24,1,Debit Card,1
+599,50,Other,North,Sports,2024-10-16,2,76.01,155.73,0,Debit Card,0
+600,24,Other,South,Sports,2023-06-26,1,222.85,225.44,0,Gift Card,1
+601,29,Female,North,Sports,2024-01-29,3,206.98,623.21,0,Credit Card,1
+602,47,Female,South,Books,2022-03-22,4,42.24,168.82,0,Debit Card,0
+603,38,Female,West,Sports,2022-05-13,1,165.63,167.57,0,PayPal,0
+604,48,Female,West,Electronics,2024-03-07,2,292.45,585.42,0,Gift Card,1
+605,41,Other,South,Electronics,2024-06-18,4,517.38,2066.7,0,Debit Card,1
+606,37,Male,East,Clothing,2022-05-18,3,85.2,252.68,0,Gift Card,1
+607,54,Other,East,Electronics,2022-07-03,4,181.9,725.57,0,PayPal,1
+608,21,Female,East,Sports,2024-02-24,1,95.39,99.5,0,Debit Card,0
+609,45,Other,West,Sports,2024-09-10,3,235.44,706.8,0,Credit Card,1
+610,61,Male,West,Home & Kitchen,2022-03-10,2,259.68,521.71,0,Gift Card,1
+611,37,Other,East,Books,2023-06-30,3,59.0,175.48,0,Debit Card,0
+612,41,Male,North,Electronics,2022-02-22,3,432.6,1296.87,0,Debit Card,1
+613,49,Female,East,Books,2022-07-24,5,18.61,89.32,0,Gift Card,0
+614,58,Other,North,Electronics,2022-05-06,3,223.27,666.51,0,PayPal,1
+615,53,Other,East,Clothing,2022-02-12,3,44.3,136.17,0,Gift Card,0
+616,51,Other,North,Clothing,2022-04-21,4,22.57,91.14,0,Credit Card,0
+617,53,Other,West,Books,2024-01-31,2,26.49,51.35,0,PayPal,0
+618,19,Female,East,Sports,2024-04-27,4,68.07,275.31,0,Credit Card,1
+619,32,Male,East,Home & Kitchen,2022-04-05,4,141.15,562.05,0,Credit Card,1
+620,51,Male,South,Electronics,2024-06-18,1,570.75,575.51,0,Gift Card,1
+621,53,Other,East,Electronics,2022-12-26,4,343.74,1373.42,0,Debit Card,1
+622,23,Female,North,Home & Kitchen,2024-06-18,5,267.06,1333.65,0,PayPal,1
+623,56,Male,South,Books,2022-10-08,5,38.3,189.63,0,Credit Card,0
+624,59,Male,East,Books,2023-10-29,1,18.59,14.81,0,Debit Card,0
+625,29,Male,East,Electronics,2022-04-03,2,310.13,616.38,1,Debit Card,1
+626,20,Male,West,Clothing,2023-11-03,2,30.91,63.3,0,Debit Card,0
+627,62,Male,South,Home & Kitchen,2022-03-02,4,120.03,483.89,0,PayPal,1
+628,35,Male,North,Electronics,2023-09-26,4,454.89,1822.48,0,Debit Card,1
+629,57,Female,East,Clothing,2024-12-10,4,29.37,113.91,0,Gift Card,0
+630,38,Other,West,Books,2024-10-25,2,16.3,33.05,0,Credit Card,0
+631,32,Male,East,Clothing,2023-08-27,3,69.59,204.82,0,Debit Card,1
+632,50,Female,South,Sports,2023-11-13,5,245.96,1225.26,0,Credit Card,1
+633,52,Female,North,Electronics,2023-06-18,3,503.19,1511.13,0,PayPal,1
+634,43,Other,West,Home & Kitchen,2024-04-17,3,228.04,684.48,0,Credit Card,1
+635,25,Other,East,Clothing,2023-10-07,2,35.1,66.03,0,Debit Card,0
+636,53,Male,North,Books,2022-08-21,3,47.95,139.21,0,PayPal,0
+637,65,Other,East,Clothing,2023-06-08,1,122.08,126.98,0,PayPal,0
+638,47,Other,East,Books,2022-12-12,4,38.06,147.54,0,PayPal,0
+639,40,Female,South,Sports,2024-12-05,1,247.83,247.28,0,PayPal,1
+640,59,Female,South,Books,2023-06-30,5,22.89,114.49,0,PayPal,0
+641,61,Female,East,Home & Kitchen,2024-03-04,4,284.14,1132.75,0,Credit Card,1
+642,31,Male,West,Sports,2022-09-06,3,230.81,689.13,0,Debit Card,1
+643,31,Male,South,Clothing,2022-02-16,5,21.49,105.98,0,Credit Card,0
+644,19,Other,South,Electronics,2022-08-02,4,352.55,1412.83,0,Debit Card,1
+645,54,Other,South,Books,2022-08-27,3,58.74,176.29,0,PayPal,0
+646,22,Male,South,Home & Kitchen,2024-12-15,1,57.84,59.22,0,PayPal,0
+647,55,Male,North,Electronics,2022-12-16,4,396.5,1590.86,0,Gift Card,1
+648,62,Female,East,Electronics,2022-04-17,3,590.53,1774.27,0,Gift Card,1
+649,58,Male,North,Sports,2024-04-10,1,149.99,149.33,0,Credit Card,0
+650,64,Male,North,Clothing,2022-02-17,5,44.68,222.84,0,Credit Card,1
+651,31,Other,East,Electronics,2022-12-03,5,411.98,2061.1,0,Debit Card,1
+652,56,Other,South,Home & Kitchen,2024-11-15,5,85.2,427.65,0,Debit Card,1
+653,42,Female,West,Books,2024-03-14,5,33.58,167.93,0,Gift Card,0
+654,37,Male,South,Books,2022-01-08,2,9.07,19.59,0,Gift Card,0
+655,19,Other,South,Books,2023-09-17,4,38.3,148.44,0,Debit Card,0
+656,56,Male,South,Sports,2023-12-20,4,141.28,564.41,0,Credit Card,1
+657,23,Male,South,Home & Kitchen,2022-10-30,2,229.84,457.48,0,Debit Card,1
+658,34,Female,West,Electronics,2023-10-01,3,433.82,1297.74,0,Credit Card,1
+659,42,Male,North,Home & Kitchen,2022-02-25,3,178.39,531.18,0,Debit Card,1
+660,45,Female,West,Sports,2023-12-27,5,180.2,902.03,0,PayPal,1
+661,19,Other,East,Sports,2023-06-10,1,57.39,57.62,0,PayPal,0
+662,52,Other,South,Clothing,2023-04-19,3,97.4,289.73,0,Credit Card,1
+663,54,Other,West,Home & Kitchen,2022-01-28,1,76.47,76.18,0,Credit Card,0
+664,22,Other,East,Books,2022-03-19,4,55.9,223.54,0,Credit Card,1
+665,18,Female,West,Sports,2022-12-31,1,40.38,37.33,0,Gift Card,0
+666,57,Female,South,Sports,2023-10-28,4,121.83,488.86,0,Gift Card,1
+667,29,Other,South,Clothing,2023-06-10,2,110.45,223.72,0,Debit Card,1
+668,53,Other,East,Books,2023-11-30,2,30.19,63.3,0,Gift Card,0
+669,62,Other,West,Sports,2024-06-01,5,45.72,229.63,0,Debit Card,1
+670,40,Female,South,Electronics,2024-10-27,3,399.02,1197.18,0,Debit Card,1
+671,64,Other,East,Books,2024-10-23,5,40.29,197.06,0,Debit Card,0
+672,48,Female,West,Home & Kitchen,2024-07-07,4,220.02,877.97,0,Credit Card,1
+673,28,Male,West,Clothing,2024-01-20,5,68.52,338.55,0,PayPal,1
+674,27,Other,East,Electronics,2022-12-29,1,403.65,408.29,0,Gift Card,1
+675,20,Female,West,Electronics,2024-03-16,4,352.81,1407.59,0,Debit Card,1
+676,31,Female,West,Home & Kitchen,2024-01-09,2,211.46,419.43,0,PayPal,1
+677,33,Female,South,Clothing,2024-11-04,3,95.86,291.48,0,Debit Card,1
+678,27,Male,South,Sports,2023-04-30,4,143.3,577.62,0,Credit Card,1
+679,46,Other,South,Clothing,2022-01-28,4,52.44,212.41,0,Debit Card,1
+680,27,Female,East,Sports,2023-12-15,1,25.45,20.51,0,Gift Card,0
+681,29,Other,North,Home & Kitchen,2024-11-28,3,77.0,226.02,0,PayPal,1
+682,47,Female,West,Home & Kitchen,2022-03-27,2,61.61,122.0,0,Credit Card,0
+683,58,Other,East,Electronics,2022-05-06,4,352.09,1404.79,0,Debit Card,1
+684,18,Male,North,Electronics,2024-03-22,4,425.52,1697.25,0,Gift Card,1
+685,22,Female,North,Electronics,2023-06-21,1,245.89,245.53,0,Gift Card,1
+686,37,Female,East,Home & Kitchen,2022-05-25,5,283.55,1422.16,0,Credit Card,1
+687,25,Male,North,Sports,2022-01-25,2,26.5,51.25,0,Gift Card,0
+688,60,Other,South,Home & Kitchen,2022-03-08,3,238.52,717.18,0,Gift Card,1
+689,29,Female,East,Home & Kitchen,2022-08-21,4,198.81,796.74,0,Gift Card,1
+690,18,Male,West,Electronics,2022-04-19,4,318.1,1269.91,0,Gift Card,1
+691,37,Female,South,Clothing,2022-04-21,2,26.56,54.63,0,Debit Card,0
+692,45,Female,West,Electronics,2022-08-16,5,432.37,2158.97,0,Credit Card,1
+693,60,Female,North,Clothing,2022-04-21,4,70.13,276.74,1,PayPal,1
+694,54,Other,South,Sports,2022-02-03,2,235.66,473.33,0,PayPal,1
+695,64,Male,West,Sports,2023-09-15,1,146.95,143.08,0,Gift Card,0
+696,54,Male,East,Books,2024-01-18,5,56.68,288.37,0,Debit Card,1
+697,29,Male,North,Books,2023-08-18,3,17.13,48.21,0,Gift Card,0
+698,54,Male,West,Books,2023-03-01,4,44.91,180.6,0,Gift Card,0
+699,61,Female,North,Sports,2023-09-05,2,163.88,326.88,0,Debit Card,1
+700,45,Other,West,Electronics,2023-11-23,1,482.73,479.0,0,Credit Card,1
+701,64,Male,East,Electronics,2022-11-11,3,246.6,735.08,1,PayPal,1
+702,32,Other,South,Electronics,2024-05-26,2,449.25,899.72,0,Debit Card,1
+703,23,Male,West,Home & Kitchen,2023-10-24,2,164.47,332.01,0,PayPal,1
+704,61,Male,North,Books,2022-10-04,3,45.86,140.99,0,Debit Card,0
+705,37,Female,East,Electronics,2023-09-16,1,297.17,297.0,0,Debit Card,1
+706,31,Female,South,Books,2023-05-31,1,53.95,56.73,0,Gift Card,0
+707,19,Female,North,Books,2024-04-22,5,9.64,49.91,0,Credit Card,0
+708,26,Other,East,Home & Kitchen,2022-12-16,4,247.94,994.01,0,PayPal,1
+709,54,Female,North,Sports,2024-04-02,3,218.8,656.32,0,Credit Card,1
+710,37,Female,East,Electronics,2024-01-29,3,517.76,1554.62,0,Gift Card,1
+711,43,Male,South,Home & Kitchen,2024-06-17,3,168.44,508.36,0,Debit Card,1
+712,46,Male,South,Sports,2022-08-31,1,123.64,122.62,0,PayPal,0
+713,18,Female,North,Sports,2023-06-27,4,249.16,999.7,0,Credit Card,1
+714,52,Female,East,Electronics,2024-11-29,5,253.13,1266.56,1,PayPal,1
+715,23,Other,West,Books,2022-08-17,2,35.08,66.82,0,PayPal,0
+716,54,Other,South,Clothing,2023-07-02,2,107.19,209.62,0,PayPal,1
+717,22,Male,West,Books,2024-07-08,3,43.55,129.27,0,Credit Card,0
+718,50,Other,West,Books,2022-01-06,4,16.22,65.35,0,PayPal,0
+719,31,Female,North,Clothing,2023-04-13,1,105.02,108.42,0,Credit Card,0
+720,29,Female,North,Sports,2022-03-16,4,209.13,832.81,0,Debit Card,1
+721,59,Male,North,Clothing,2022-01-04,4,26.5,109.01,0,Credit Card,0
+722,37,Female,East,Clothing,2023-10-08,1,138.5,142.13,0,Gift Card,0
+723,41,Female,South,Home & Kitchen,2022-04-28,3,37.97,110.41,0,PayPal,0
+724,60,Female,South,Home & Kitchen,2024-05-30,4,126.11,507.96,0,Gift Card,1
+725,51,Female,West,Home & Kitchen,2023-05-19,2,34.27,73.45,0,Gift Card,0
+726,42,Other,North,Sports,2024-08-04,1,42.36,44.63,0,Debit Card,0
+727,46,Other,East,Clothing,2023-07-28,5,138.45,695.11,0,Debit Card,1
+728,56,Other,South,Electronics,2022-07-13,3,309.69,934.01,0,Credit Card,1
+729,48,Other,East,Clothing,2024-04-26,1,75.22,76.28,0,Credit Card,0
+730,64,Other,North,Sports,2023-12-16,5,73.45,365.34,0,PayPal,1
+731,60,Male,North,Home & Kitchen,2024-11-15,5,191.22,959.45,0,Gift Card,1
+732,40,Female,South,Sports,2022-06-22,4,158.83,636.47,0,Debit Card,1
+733,61,Male,West,Home & Kitchen,2022-11-22,4,130.49,522.79,0,Debit Card,1
+734,55,Female,West,Sports,2024-04-15,4,99.93,397.27,0,PayPal,1
+735,37,Female,North,Electronics,2023-12-25,1,548.23,550.8,0,Debit Card,1
+736,40,Female,North,Home & Kitchen,2022-08-13,1,133.49,129.3,0,Gift Card,0
+737,62,Male,West,Home & Kitchen,2023-06-16,3,163.25,493.98,0,Gift Card,1
+738,33,Female,North,Clothing,2022-04-23,4,56.83,225.58,0,PayPal,1
+739,59,Female,South,Sports,2022-05-20,5,202.02,1006.39,0,Gift Card,1
+740,25,Other,South,Books,2023-07-13,2,26.86,53.14,0,Credit Card,0
+741,38,Other,East,Books,2022-01-01,3,33.25,95.17,0,Gift Card,0
+742,18,Female,West,Clothing,2022-03-31,1,52.94,54.78,0,Credit Card,0
+743,25,Other,North,Sports,2023-10-16,3,247.22,745.7,0,Debit Card,1
+744,46,Male,East,Electronics,2022-11-16,3,281.17,846.89,0,Credit Card,1
+745,49,Female,South,Clothing,2022-05-19,3,120.2,356.86,0,PayPal,1
+746,55,Male,West,Home & Kitchen,2024-04-24,3,145.42,432.53,0,PayPal,1
+747,22,Other,South,Electronics,2022-09-16,2,242.8,488.73,0,PayPal,1
+748,64,Other,North,Sports,2024-06-20,4,204.94,823.99,0,PayPal,1
+749,39,Male,East,Home & Kitchen,2023-11-21,5,120.07,599.98,0,PayPal,1
+750,64,Female,North,Books,2022-01-10,3,52.59,157.75,0,Gift Card,0
+751,51,Other,North,Sports,2022-09-18,3,230.93,690.98,0,Debit Card,1
+752,18,Other,West,Home & Kitchen,2022-06-21,3,262.15,790.4,0,Credit Card,1
+753,43,Other,West,Sports,2024-06-16,4,32.88,132.96,0,Credit Card,0
+754,60,Male,North,Home & Kitchen,2022-01-13,1,242.59,240.47,0,Debit Card,1
+755,27,Male,West,Sports,2022-11-17,1,117.55,115.54,0,PayPal,0
+756,47,Other,East,Books,2022-11-25,2,53.05,110.02,0,PayPal,0
+757,35,Female,East,Clothing,2024-02-24,1,102.93,98.07,0,Credit Card,0
+758,34,Male,North,Home & Kitchen,2024-02-16,3,255.08,763.48,0,PayPal,1
+759,43,Female,East,Home & Kitchen,2024-06-29,3,164.85,495.08,0,Gift Card,1
+760,25,Male,North,Books,2022-11-14,3,34.43,99.76,0,Gift Card,0
+761,64,Male,East,Clothing,2022-08-24,2,38.77,73.46,0,Gift Card,0
+762,57,Female,South,Sports,2022-11-30,3,201.4,607.34,0,Debit Card,1
+763,29,Female,North,Home & Kitchen,2023-01-11,1,143.24,147.18,0,Debit Card,0
+764,44,Female,East,Clothing,2023-08-11,4,85.01,343.28,0,Gift Card,1
+765,25,Male,South,Sports,2023-05-28,4,201.65,810.58,0,Debit Card,1
+766,42,Female,North,Home & Kitchen,2024-07-06,5,191.69,958.97,1,Gift Card,1
+767,63,Female,East,Home & Kitchen,2024-05-22,1,84.3,87.42,1,PayPal,0
+768,21,Female,East,Sports,2022-09-27,3,157.8,472.25,0,Debit Card,1
+769,50,Female,South,Books,2024-03-08,4,27.42,111.34,0,Gift Card,0
+770,18,Female,West,Clothing,2023-12-26,1,81.04,85.93,0,Debit Card,0
+771,36,Female,West,Home & Kitchen,2022-01-05,4,37.64,147.83,0,Credit Card,0
+772,48,Female,South,Sports,2024-04-30,3,72.26,215.67,0,Credit Card,1
+773,33,Male,South,Home & Kitchen,2022-03-19,4,105.88,423.32,1,Gift Card,1
+774,31,Female,North,Sports,2023-07-28,5,185.42,923.46,0,Gift Card,1
+775,65,Male,West,Home & Kitchen,2022-05-12,5,33.1,161.33,1,Gift Card,0
+776,22,Other,North,Electronics,2023-08-24,4,333.95,1339.1,0,Credit Card,1
+777,58,Other,East,Books,2024-12-01,1,55.82,60.59,0,Debit Card,0
+778,43,Male,South,Clothing,2022-03-30,1,34.54,33.59,0,Credit Card,0
+779,45,Female,North,Books,2023-02-06,1,33.4,29.28,0,Gift Card,0
+780,19,Male,South,Books,2022-10-23,4,48.26,188.69,0,Gift Card,0
+781,23,Other,North,Clothing,2023-09-08,1,142.53,146.44,0,Gift Card,0
+782,26,Male,East,Books,2024-03-10,3,46.07,137.86,0,Gift Card,0
+783,50,Other,East,Electronics,2023-02-26,5,474.25,2369.47,0,Gift Card,1
+784,58,Male,West,Sports,2024-11-12,3,210.96,632.64,0,Gift Card,1
+785,42,Male,West,Clothing,2023-07-29,1,78.01,76.19,0,PayPal,0
+786,65,Male,East,Sports,2022-05-23,3,206.32,618.84,0,PayPal,1
+787,30,Male,North,Home & Kitchen,2024-09-19,1,32.15,35.75,0,PayPal,0
+788,26,Male,South,Electronics,2023-10-27,4,566.05,2265.13,1,Credit Card,1
+789,30,Other,East,Sports,2022-05-25,3,124.74,376.18,0,Debit Card,1
+790,48,Male,East,Sports,2024-10-03,4,149.51,596.69,0,Gift Card,1
+791,58,Male,North,Clothing,2023-05-18,4,53.13,214.92,0,PayPal,1
+792,28,Male,East,Home & Kitchen,2024-03-31,2,230.48,462.63,0,Credit Card,1
+793,21,Female,East,Clothing,2022-04-14,1,29.96,26.16,0,Debit Card,0
+794,51,Other,North,Home & Kitchen,2024-11-28,5,265.61,1328.78,0,Gift Card,1
+795,55,Male,East,Clothing,2022-07-17,1,127.66,125.22,0,Gift Card,0
+796,63,Other,West,Sports,2023-08-02,5,73.61,371.11,0,Debit Card,1
+797,21,Male,West,Sports,2023-01-26,1,207.1,206.36,0,Debit Card,1
+798,55,Female,West,Electronics,2023-07-08,4,503.86,2020.39,1,Debit Card,1
+799,36,Other,West,Sports,2024-11-04,3,167.25,497.67,1,Credit Card,1
+800,23,Female,East,Books,2023-04-23,3,25.54,79.43,0,PayPal,0
+801,51,Female,South,Sports,2024-07-11,2,86.09,173.91,0,Gift Card,0
+802,35,Male,West,Books,2023-02-24,5,17.75,91.42,0,PayPal,0
+803,30,Other,West,Sports,2022-06-06,5,96.69,481.51,0,Debit Card,1
+804,58,Other,East,Books,2023-07-04,5,54.7,273.4,0,Gift Card,1
+805,40,Other,East,Books,2024-10-17,4,9.27,40.05,0,Gift Card,0
+806,36,Other,North,Sports,2024-09-23,5,211.5,1054.81,1,PayPal,1
+807,62,Male,West,Books,2024-08-08,3,24.19,69.83,0,PayPal,0
+808,28,Male,North,Electronics,2022-10-16,4,384.72,1539.39,0,Gift Card,1
+809,18,Female,West,Home & Kitchen,2022-07-15,1,244.51,244.75,0,Credit Card,1
+810,41,Male,South,Books,2023-08-21,5,53.64,266.03,0,Debit Card,1
+811,24,Other,East,Books,2023-06-01,5,23.96,117.8,0,PayPal,0
+812,42,Male,East,Electronics,2024-05-14,1,357.83,355.61,0,Gift Card,1
+813,38,Female,North,Electronics,2024-03-16,5,336.53,1685.38,0,PayPal,1
+814,32,Other,North,Clothing,2024-03-25,1,21.72,23.24,0,Gift Card,0
+815,18,Other,East,Home & Kitchen,2022-08-16,4,109.9,442.94,0,Credit Card,1
+816,29,Female,East,Clothing,2022-08-04,3,79.69,243.84,0,PayPal,1
+817,24,Female,East,Books,2024-08-05,1,27.61,27.35,0,Gift Card,0
+818,32,Other,West,Electronics,2022-01-15,2,474.87,945.4,0,PayPal,1
+819,38,Male,West,Books,2022-02-16,1,26.16,21.65,0,Gift Card,0
+820,36,Male,South,Sports,2022-11-20,5,135.11,673.51,0,Debit Card,1
+821,46,Other,West,Home & Kitchen,2024-04-23,4,145.99,588.3,0,Gift Card,1
+822,42,Other,East,Sports,2022-05-10,4,191.64,766.8,0,Gift Card,1
+823,50,Other,West,Electronics,2022-04-05,1,538.34,536.06,0,Gift Card,1
+824,49,Male,North,Electronics,2023-09-19,3,389.35,1167.04,1,Gift Card,1
+825,52,Male,East,Electronics,2024-01-25,2,505.24,1011.47,0,Debit Card,1
+826,61,Other,West,Home & Kitchen,2024-03-04,4,110.13,442.06,0,Credit Card,1
+827,55,Female,East,Clothing,2022-03-10,5,90.38,448.43,0,Debit Card,1
+828,43,Other,North,Books,2022-01-11,5,23.99,124.71,0,Credit Card,0
+829,28,Other,North,Books,2024-05-21,3,27.78,83.79,0,Credit Card,0
+830,52,Male,West,Books,2023-07-04,4,45.28,177.49,1,Debit Card,0
+831,25,Other,East,Books,2023-12-13,1,53.49,57.43,0,PayPal,0
+832,63,Male,South,Books,2022-01-23,5,11.68,54.16,0,Credit Card,0
+833,31,Female,North,Clothing,2024-03-25,3,102.5,311.59,0,Debit Card,1
+834,27,Other,South,Sports,2022-12-12,4,155.98,628.9,0,Gift Card,1
+835,19,Female,West,Home & Kitchen,2022-10-29,4,61.97,249.89,0,Debit Card,1
+836,63,Other,North,Sports,2022-12-29,4,72.68,293.41,0,Credit Card,1
+837,26,Female,South,Sports,2023-01-31,4,94.98,378.28,0,PayPal,1
+838,20,Male,North,Books,2022-08-06,4,14.18,61.14,0,PayPal,0
+839,38,Other,South,Books,2022-05-21,5,18.41,92.32,0,PayPal,0
+840,43,Other,East,Clothing,2024-08-15,3,54.79,166.69,0,Gift Card,0
+841,25,Female,East,Home & Kitchen,2024-09-11,4,120.63,486.77,1,Debit Card,1
+842,65,Male,West,Electronics,2024-09-19,2,487.23,979.2,0,Debit Card,1
+843,19,Female,North,Sports,2024-04-07,2,153.68,310.69,0,PayPal,1
+844,23,Female,South,Electronics,2023-11-14,3,593.81,1779.46,0,Gift Card,1
+845,45,Male,West,Home & Kitchen,2024-09-30,1,141.98,146.64,0,PayPal,0
+846,46,Female,East,Sports,2022-12-22,1,194.62,195.9,0,Credit Card,0
+847,43,Female,East,Electronics,2024-10-04,1,542.16,546.47,0,Debit Card,1
+848,42,Other,West,Electronics,2024-06-06,2,455.54,912.84,0,Gift Card,1
+849,29,Female,North,Clothing,2022-05-07,1,73.54,71.61,0,PayPal,0
+850,22,Other,South,Home & Kitchen,2024-10-05,5,233.47,1166.05,0,Gift Card,1
+851,51,Male,East,Home & Kitchen,2023-08-27,4,84.99,340.47,0,Credit Card,1
+852,65,Female,West,Home & Kitchen,2024-10-10,2,118.44,239.78,0,Credit Card,1
+853,54,Male,East,Sports,2022-02-20,3,148.0,442.19,0,Debit Card,1
+854,32,Other,East,Clothing,2024-11-18,3,94.8,285.21,1,Gift Card,1
+855,61,Other,South,Books,2024-02-18,4,6.22,23.33,0,PayPal,0
+856,53,Other,North,Sports,2024-03-24,2,237.65,478.46,0,PayPal,1
+857,32,Female,North,Home & Kitchen,2023-02-24,1,218.09,217.76,0,PayPal,1
+858,60,Other,South,Sports,2024-09-09,1,136.53,132.3,0,Debit Card,0
+859,65,Other,West,Electronics,2024-04-04,5,569.91,2846.2,0,Credit Card,1
+860,40,Female,West,Sports,2024-10-21,5,123.8,614.59,1,PayPal,1
+861,23,Female,North,Sports,2023-07-21,1,245.6,245.59,0,Debit Card,1
+862,63,Female,East,Home & Kitchen,2023-01-06,3,168.32,501.01,0,Debit Card,1
+863,61,Other,East,Electronics,2024-07-24,3,201.43,600.43,0,Debit Card,1
+864,60,Other,West,Home & Kitchen,2023-10-23,5,236.5,1186.89,0,Debit Card,1
+865,62,Female,South,Electronics,2024-08-26,4,455.5,1825.74,0,Debit Card,1
+866,38,Female,East,Electronics,2022-07-21,1,497.84,497.36,0,Debit Card,1
+867,40,Male,West,Electronics,2022-11-09,5,578.15,2895.6,0,Credit Card,1
+868,60,Male,South,Home & Kitchen,2022-04-27,5,239.65,1193.26,0,Credit Card,1
+869,33,Female,North,Electronics,2024-07-25,1,425.1,426.24,0,PayPal,1
+870,64,Female,South,Clothing,2023-07-29,1,131.45,132.61,0,Gift Card,0
+871,32,Male,North,Clothing,2022-09-01,3,107.52,322.14,0,Credit Card,1
+872,42,Female,West,Books,2023-06-21,4,27.45,108.76,0,Gift Card,0
+873,53,Other,South,Clothing,2022-03-16,4,135.13,540.08,0,PayPal,1
+874,28,Other,West,Books,2023-01-21,1,17.2,16.35,0,Credit Card,0
+875,32,Other,North,Clothing,2023-04-20,2,112.9,228.11,0,Credit Card,1
+876,21,Female,East,Home & Kitchen,2023-02-22,5,268.02,1336.46,0,PayPal,1
+877,38,Female,East,Books,2022-12-13,5,45.22,223.09,0,PayPal,1
+878,30,Male,North,Sports,2023-10-02,1,181.89,178.69,0,Gift Card,0
+879,39,Female,East,Sports,2024-07-27,2,194.34,386.31,1,Gift Card,1
+880,36,Female,East,Clothing,2024-08-12,3,80.46,241.62,0,PayPal,1
+881,51,Male,South,Sports,2024-05-25,1,221.69,217.8,0,Credit Card,1
+882,31,Female,South,Clothing,2024-02-02,1,46.45,50.13,0,Debit Card,0
+883,21,Male,East,Clothing,2023-10-26,5,36.56,180.77,0,Gift Card,0
+884,65,Female,South,Sports,2022-01-25,1,89.24,85.86,0,PayPal,0
+885,63,Female,North,Sports,2023-12-11,1,144.6,146.36,0,Credit Card,0
+886,44,Female,South,Electronics,2022-06-26,1,379.75,375.13,0,Credit Card,1
+887,46,Female,South,Books,2022-10-12,5,50.13,251.86,0,Gift Card,1
+888,64,Other,South,Clothing,2022-03-04,3,72.59,219.76,0,Gift Card,1
+889,45,Other,West,Sports,2024-09-29,3,133.98,399.08,0,Debit Card,1
+890,52,Female,North,Books,2023-10-24,1,5.74,1.15,0,Gift Card,0
+891,25,Other,East,Sports,2023-10-28,5,117.19,584.59,0,Debit Card,1
+892,33,Male,East,Sports,2022-06-05,3,170.75,508.23,0,PayPal,1
+893,59,Other,West,Electronics,2024-12-08,3,156.98,467.1,0,Gift Card,1
+894,53,Male,South,Clothing,2024-08-24,3,56.51,167.09,0,Debit Card,0
+895,47,Male,North,Clothing,2024-04-28,5,47.03,233.13,1,Gift Card,1
+896,35,Male,North,Home & Kitchen,2023-11-20,5,41.34,206.98,0,PayPal,1
+897,19,Other,East,Electronics,2022-05-28,1,365.67,367.45,0,PayPal,1
+898,30,Female,West,Books,2022-12-08,4,14.99,60.91,0,Debit Card,0
+899,21,Female,West,Electronics,2023-04-21,3,484.39,1449.64,0,Credit Card,1
+900,43,Other,West,Books,2024-12-22,4,51.64,203.26,0,PayPal,1
+901,42,Male,West,Clothing,2023-07-15,5,90.93,458.42,0,PayPal,1
+902,47,Other,North,Home & Kitchen,2022-11-23,5,295.06,1475.89,0,PayPal,1
+903,28,Female,South,Home & Kitchen,2024-09-16,5,151.63,761.85,1,PayPal,1
+904,24,Other,East,Clothing,2022-08-03,4,86.74,345.67,0,Credit Card,1
+905,48,Other,North,Sports,2023-03-11,5,247.57,1239.01,0,PayPal,1
+906,61,Female,West,Electronics,2024-08-09,1,254.2,254.43,0,Credit Card,1
+907,27,Female,West,Home & Kitchen,2023-12-24,5,284.49,1420.63,0,Gift Card,1
+908,56,Male,East,Sports,2022-02-01,2,34.64,68.98,0,Credit Card,0
+909,30,Male,South,Books,2023-11-01,4,29.55,118.23,0,Debit Card,0
+910,48,Female,South,Home & Kitchen,2022-10-12,2,48.9,94.81,0,Gift Card,0
+911,24,Male,South,Books,2023-03-05,5,45.11,223.69,1,Credit Card,1
+912,59,Female,West,Sports,2022-10-13,1,161.89,164.81,0,Credit Card,0
+913,59,Other,North,Books,2024-11-08,3,43.86,135.75,0,Credit Card,0
+914,53,Male,North,Sports,2022-01-18,5,109.26,544.89,0,Credit Card,1
+915,37,Female,South,Books,2024-02-08,1,25.32,23.39,0,Credit Card,0
+916,21,Other,East,Electronics,2023-08-13,4,170.39,678.53,0,Credit Card,1
+917,24,Other,South,Home & Kitchen,2024-10-06,2,124.49,250.76,1,Debit Card,1
+918,18,Female,South,Home & Kitchen,2022-07-13,2,280.91,560.05,0,Debit Card,1
+919,61,Female,East,Sports,2023-05-17,2,110.33,225.53,1,Debit Card,1
+920,62,Other,South,Books,2024-09-14,4,50.73,201.16,0,Credit Card,1
+921,59,Other,East,Clothing,2022-04-24,1,129.5,128.44,0,Gift Card,0
+922,64,Female,East,Home & Kitchen,2024-08-04,4,130.78,524.13,0,Debit Card,1
+923,30,Female,North,Books,2024-04-10,2,39.76,82.54,0,PayPal,0
+924,39,Other,East,Books,2024-07-13,5,10.25,50.92,0,PayPal,0
+925,38,Other,South,Electronics,2022-02-24,3,196.66,589.19,0,Credit Card,1
+926,39,Female,East,Clothing,2024-03-10,4,26.33,110.26,1,Gift Card,0
+927,45,Female,South,Home & Kitchen,2024-02-17,4,186.87,742.6,0,Debit Card,1
+928,26,Other,East,Electronics,2022-06-11,1,341.73,345.68,0,Credit Card,1
+929,43,Female,North,Clothing,2022-03-28,1,91.24,87.74,0,Gift Card,0
+930,26,Female,South,Home & Kitchen,2022-02-24,4,170.69,685.62,0,PayPal,1
+931,32,Female,South,Electronics,2024-10-28,2,307.59,616.36,0,Debit Card,1
+932,27,Female,South,Clothing,2024-04-12,3,108.07,322.63,0,Credit Card,1
+933,41,Male,East,Home & Kitchen,2022-11-09,1,234.8,238.53,0,Credit Card,1
+934,59,Male,North,Clothing,2024-01-29,2,21.9,38.93,0,Gift Card,0
+935,25,Other,North,Books,2023-03-19,5,16.4,79.26,0,Credit Card,0
+936,41,Male,North,Sports,2022-11-24,1,185.48,186.15,0,Credit Card,0
+937,33,Female,North,Sports,2024-12-13,2,111.99,222.49,0,Debit Card,1
+938,43,Male,East,Books,2024-01-31,2,41.44,83.98,0,PayPal,0
+939,44,Other,South,Clothing,2023-08-02,3,65.11,190.56,0,PayPal,0
+940,54,Other,West,Books,2024-12-10,3,26.49,75.64,0,Gift Card,0
+941,21,Other,North,Sports,2024-10-03,5,60.7,299.78,0,PayPal,1
+942,41,Male,West,Sports,2022-04-06,2,83.1,163.1,0,Gift Card,0
+943,36,Male,East,Clothing,2024-03-24,2,98.7,197.0,0,Debit Card,0
+944,53,Male,East,Sports,2023-05-06,3,122.46,369.91,0,Gift Card,1
+945,56,Other,West,Books,2023-03-28,1,47.59,51.64,0,PayPal,0
+946,27,Female,South,Clothing,2022-06-14,1,130.84,134.19,1,Credit Card,0
+947,42,Female,West,Books,2022-07-01,4,34.79,136.13,0,Debit Card,0
+948,35,Other,East,Clothing,2023-04-14,3,118.57,355.14,0,PayPal,1
+949,36,Other,West,Sports,2024-06-28,4,94.05,373.21,0,Debit Card,1
+950,53,Other,North,Home & Kitchen,2024-01-05,3,142.04,423.77,1,Gift Card,1
+951,27,Other,North,Clothing,2024-04-02,5,112.66,563.34,0,PayPal,1
+952,50,Female,South,Clothing,2024-08-01,2,70.21,136.1,0,Credit Card,0
+953,22,Male,West,Home & Kitchen,2022-01-07,5,188.9,941.66,0,Credit Card,1
+954,64,Male,West,Sports,2022-11-26,3,66.71,204.48,0,Credit Card,1
+955,52,Female,West,Books,2024-02-14,2,37.99,75.64,0,Credit Card,0
+956,61,Male,West,Electronics,2022-05-31,1,537.68,537.14,0,Debit Card,1
+957,51,Female,South,Home & Kitchen,2022-05-27,1,264.53,259.68,0,PayPal,1
+958,50,Male,East,Electronics,2024-07-03,4,475.95,1901.29,1,Credit Card,1
+959,38,Female,South,Sports,2023-12-01,3,192.79,582.05,0,Credit Card,1
+960,34,Male,East,Clothing,2022-03-23,3,92.53,274.24,0,Credit Card,1
+961,39,Other,East,Clothing,2023-05-29,1,96.01,95.16,0,Gift Card,0
+962,65,Other,East,Sports,2024-03-25,5,55.07,270.5,0,PayPal,1
+963,54,Male,West,Books,2023-12-10,2,29.41,58.61,0,Debit Card,0
+964,32,Female,South,Books,2024-01-16,5,29.79,144.17,0,Gift Card,0
+965,52,Male,East,Sports,2024-10-19,5,240.66,1206.51,0,Gift Card,1
+966,45,Male,North,Sports,2023-12-08,1,121.99,125.24,0,Debit Card,0
+967,24,Other,East,Sports,2023-04-16,1,148.6,151.48,0,Credit Card,0
+968,49,Female,South,Sports,2023-01-31,1,144.98,142.82,0,Credit Card,0
+969,28,Other,West,Sports,2022-09-18,4,168.27,676.46,0,PayPal,1
+970,27,Male,North,Sports,2024-03-15,5,193.35,967.19,0,Credit Card,1
+971,26,Other,East,Clothing,2024-07-22,3,49.26,146.5,0,Gift Card,0
+972,31,Female,West,Electronics,2024-06-23,2,387.93,777.11,0,Gift Card,1
+973,30,Male,South,Books,2024-12-12,4,50.43,196.83,0,Gift Card,0
+974,42,Male,South,Electronics,2024-07-28,3,358.4,1071.63,0,Debit Card,1
+975,19,Other,North,Clothing,2024-05-03,5,56.2,283.42,0,Credit Card,1
+976,52,Female,North,Home & Kitchen,2023-08-16,1,206.77,204.21,0,Credit Card,1
+977,24,Female,East,Electronics,2023-12-15,5,520.7,2604.46,0,Credit Card,1
+978,38,Female,West,Home & Kitchen,2023-09-24,2,47.05,92.95,0,Credit Card,0
+979,35,Female,West,Clothing,2022-02-28,4,120.98,487.48,0,PayPal,1
+980,20,Female,South,Books,2022-05-08,4,50.19,205.29,0,PayPal,1
+981,59,Male,South,Home & Kitchen,2024-01-06,2,154.61,313.06,0,Gift Card,1
+982,56,Male,East,Clothing,2023-12-22,3,147.83,441.2,0,Gift Card,1
+983,58,Female,East,Sports,2023-06-10,3,202.01,602.97,0,Debit Card,1
+984,28,Female,South,Books,2023-06-05,4,47.55,189.95,0,Gift Card,0
+985,56,Male,South,Sports,2023-07-06,4,193.26,768.13,0,Credit Card,1
+986,41,Male,West,Books,2022-08-25,1,13.28,8.54,0,Gift Card,0
+987,63,Female,West,Books,2023-05-09,3,16.95,51.38,0,Gift Card,0
+988,36,Female,West,Electronics,2022-01-04,2,358.8,717.8,0,PayPal,1
+989,21,Male,East,Books,2023-10-28,3,19.52,63.51,0,Credit Card,0
+990,43,Other,West,Electronics,2023-03-18,1,336.86,333.88,0,Debit Card,1
+991,55,Other,North,Home & Kitchen,2022-01-29,4,269.89,1077.12,0,Debit Card,1
+992,59,Other,North,Books,2023-09-02,4,50.34,197.49,0,Debit Card,0
+993,49,Male,West,Home & Kitchen,2024-03-15,1,200.11,204.29,0,Gift Card,1
+994,56,Male,West,Books,2022-03-16,2,52.2,107.17,0,Debit Card,0
+995,62,Male,South,Electronics,2024-04-17,4,502.7,2014.01,0,Debit Card,1
+996,63,Other,South,Sports,2022-05-08,5,121.52,611.64,0,Debit Card,1
+997,53,Female,East,Books,2022-02-11,4,16.06,64.48,0,PayPal,0
+998,57,Male,North,Clothing,2022-02-10,5,86.85,433.74,0,Credit Card,1
+999,54,Male,North,Sports,2024-07-22,1,190.65,188.96,1,PayPal,0
+1000,50,Male,East,Electronics,2022-02-03,1,346.39,347.28,0,Credit Card,1
